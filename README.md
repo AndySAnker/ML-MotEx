@@ -80,10 +80,9 @@ andy@chem.ku.dk
 Our code is developed based on the the following publications:
 ```
 @article{LindahlChristiansen:kc5101,
-author = "Lindahl Christiansen, Troels and Kjær, Emil T. S. and Kovyakh, Anton and Röderen, Morten L. and Høj, Martin and Vosch, Tom and Jensen, Kirsten M. Ø.",
 title = "{Structure analysis of supported disordered molybdenum oxides using pair distribution function analysis and automated cluster modelling}",
-journal = "Journal of Applied Crystallography",
-doi = {10.1107/S1600576719016832},}
+author = "Lindahl Christiansen, Troels and Kjær, Emil T. S. and Kovyakh, Anton and Röderen, Morten L. and Høj, Martin and Vosch, Tom and Jensen, Kirsten M. Ø.",
+journal = "Journal of Applied Crystallography",},}
 
 @article{anker2021structural,
   title={Structural Changes during the Growth of Atomically Precise Metal Oxido Nanoclusters from Combined Pair Distribution Function and Small-Angle X-ray Scattering Analysis},
