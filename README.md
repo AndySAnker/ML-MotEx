@@ -21,7 +21,7 @@ git clone https://github.com/AndyNano/ML-MotEx.git
 
 **ML-MotEx_Step1_2**: Generates a catalogue of structure motifs (Step 1) from a starting model and fit these to a PDF (Step 2):
 
-Option 1: Instal using requirement.txt files
+Option 1: Install using requirement.txt files
 ```bash
 cd Install_options/Install_Step1+2/Install_bash
 ```
@@ -30,9 +30,11 @@ bash install.sh
 ```
 
 Option 2: Install a predefined anaconda environment
+
 ```bash
 cd Install_options/Install_Step1+2/Install_condaEnvironment
 ```
+
 ```bash
 conda env create -f ML-MotEx_Step1_2.yml
 ```
@@ -62,18 +64,21 @@ Option 3: Run ML-MotEx using a singularity container in the folder "Singularitie
 
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
+
 ```
 @inproceedings{anker2022ML-MotEx,
   title={Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures using Interpretable Machine Learning},
   author={Andy S. Anker, Emil T. S. Kjær, Mikkel Juelsholt, Troels Lindahl Christiansen, Susanne Linn Skjærvø, Mads Ry Vogel Jørgensen, Innokenty Kantor, Daniel Risskov Sørensen, Raghavendra Selvan and Kirsten M. Ø. Jensen},
   booktitle={XXX},
   year={2022}}
+```
 
 ### Contact
 andy@chem.ku.dk
 
 ### Acknowledgments
 Our code is developed based on the the following publications:
+```
 @article{LindahlChristiansen:kc5101,
 author = "Lindahl Christiansen, Troels and Kjær, Emil T. S. and Kovyakh, Anton and Röderen, Morten L. and Høj, Martin and Vosch, Tom and Jensen, Kirsten M. Ø.",
 title = "{Structure analysis of supported disordered molybdenum oxides using pair distribution function analysis and automated cluster modelling}",
@@ -84,3 +89,4 @@ doi = {10.1107/S1600576719016832},}
   title={Structural Changes during the Growth of Atomically Precise Metal Oxido Nanoclusters from Combined Pair Distribution Function and Small-Angle X-ray Scattering Analysis},
   author={Anker, Andy S and Christiansen, Troels Lindahl and Weber, Marcus and Schmiele, Martin and Brok, Erik and Kjær, Emil TS and Juhás, Pavol and Thomas, Rico and Mehring, Michael and Jensen, Kirsten M Ø},
   journal={Angewandte Chemie},}
+```
