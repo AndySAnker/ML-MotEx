@@ -20,6 +20,7 @@ git clone https://github.com/AndyNano/ML-MotEx.git
 ```
 
 **ML-MotEx_Step1_2**: Generates a catalogue of structure motifs (Step 1) from a starting model and fit these to a PDF (Step 2):
+
 Option 1: Instal using requirement.txt files
 ```bash
 cd Install_options/Install_Step1+2/Install_bash
