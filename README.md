@@ -23,7 +23,7 @@ git clone https://github.com/AndyNano/ML-MotEx.git
 
 Option 1: Install using requirement.txt files
 ```bash
-cd Install_options/Install_Step1+2/Install_bash
+cd Install_options/ML-MotEx_Step1+2
 ```
 ```bash
 bash install.sh
@@ -32,7 +32,7 @@ bash install.sh
 Option 2: Install a predefined anaconda environment
 
 ```bash
-cd Install_options/Install_Step1+2/Install_condaEnvironment
+cd Install_options/ML-MotEx_Step1+2
 ```
 
 ```bash
@@ -45,7 +45,7 @@ Option 3: Run ML-MotEx using a singularity container in the folder "Singularitie
 
 Option 1: Instal using requirement.txt files
 ```bash
-cd Install_options/Install_Step3+4/Install_bash
+cd Install_options/ML-MotEx_Step3+4
 ```
 ```bash
 bash install.sh
@@ -53,7 +53,7 @@ bash install.sh
 
 Option 2: Install a predefined anaconda environment
 ```bash
-cd Install_options/Install_Step3+4/Install_condaEnvironment
+cd Install_options/ML-MotEx_Step3+4
 ```
 ```bash
 conda env create -f ML-MotEx_Step3_4.yml
