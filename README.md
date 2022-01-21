@@ -7,7 +7,7 @@ ML-MotEx first builds a catalogue of hundreds or thousands of candidate structur
 
 Note that the code to step 1+2 presented here is specific for data analysis of Pair Distribution Function data. If other data is used, one can go directly to step 3+4 of the algorithm which will guide the user to set up the data in the appropriate manner and use step 3+4 of ML-MotEx.
 
-![alt text](ML_MotEx_Overview.png "Title")
+![alt text](Images/ML_MotEx_Overview.png "Title")
 
 One of the bottlenecks in structural analysis using e.g. Pair Distribution Function (PDF) analysis or other scattering methods is identifying an atomic model for structure refinement. Recently, new modelling approaches have made it possible to test thousands of models against a dataset in an automated manner, but one of the challenges when using such methods is analyzing the output, i.e. extracting structural information from the thousands of fits in a meaningful way. We here use interpretable machine learning to identify structural motifs present in nanomaterials from PDFs based on an automated modelling approach.
 We have demonstrated the use of the algorithm on data from 4 different chemical systems consisting of disordered materials and ionic clusters. Furthermore, we showed that the algorithm achieves comparable results using 4 different starting models but the same dataset. ML-MotEx opens for a new type of modelling where each atom or structural feature in a model is assigned an importance value for the fit quality based on Machine Learning. 
