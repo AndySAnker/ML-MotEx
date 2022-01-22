@@ -5,7 +5,7 @@
 We provide our code for Machine Learning based Motif Extractor (ML-MotEx), which is a tool to extract structural motifs from numerous fits using interpretable machine learning.
 ML-MotEx first builds a catalogue of hundreds or thousands of candidate structure motifs which are all ‘cutouts’ from a chosen starting structure (Step 1), and then fit these individual models to a dataset (Step 2). The results from these fits are then handed to a ML algorithm (Step 3), and using SHAP (SHapley Additive exPlanation) values, the machine identifies which atoms are important for the fit quality (Step 4), such that structural motifs can be extracted from a dataset.
 
-Note that the code to step 1+2 presented here is specific for data analysis of Pair Distribution Function data. If other data is used, one can go directly to step 3+4 of the algorithm which will guide the user to set up the data in the appropriate manner and use step 3+4 of ML-MotEx.
+Note that the code to step 2 presented here is specific for data analysis of Pair Distribution Function data. If data from other techniques is used, one can go directly to step 3+4 of the algorithm which will guide the user to set up the data (Step 1 + fits) in the appropriate manner and use step 3+4 of ML-MotEx.
 
 ![alt text](Images/ML_MotEx_Overview.png "Title")
 
