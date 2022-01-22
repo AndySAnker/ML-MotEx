@@ -39,7 +39,7 @@ cd Install_options/ML-MotEx_Step1+2
 conda env create -f ML-MotEx_Step1_2.yml
 ```
 
-Option 3: Run ML-MotEx using a singularity container in the folder "Singularities"
+Option 3: Run ML-MotEx using a singularity container in the folder "Singularity"
 
 **ML-MotEx_Step3_4**: The results from the fits are handed to a ML algorithm (Step 3), and using SHAP (SHapley Additive exPlanation) values, the machine identifies which atoms are important for the fit quality (Step 4), such that structural motifs can be extracted from a dataset. 
 
@@ -59,7 +59,7 @@ cd Install_options/ML-MotEx_Step3+4
 conda env create -f ML-MotEx_Step3_4.yml
 ```
 
-Option 3: Run ML-MotEx using a singularity container in the folder "Singularities"
+Option 3: Run ML-MotEx using a singularity container in the folder "Singularity"
 
 
 ### Citation
