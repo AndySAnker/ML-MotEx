@@ -91,4 +91,4 @@ journal={Angewandte Chemie},}
 ```
 
 ### LICENSE
-This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3 License - see the LICENSE file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3 - see the LICENSE file for details.
