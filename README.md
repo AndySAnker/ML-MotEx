@@ -89,3 +89,6 @@ title={Structural Changes during the Growth of Atomically Precise Metal Oxido Na
 author={Anker, Andy S and Christiansen, Troels Lindahl and Weber, Marcus and Schmiele, Martin and Brok, Erik and Kjær, Emil TS and Juhás, Pavol and Thomas, Rico and Mehring, Michael and Jensen, Kirsten M Ø},
 journal={Angewandte Chemie},}
 ```
+
+### LICENSE
+This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE Version 3 License - see the LICENSE file for details.
