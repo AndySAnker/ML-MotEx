@@ -1,0 +1,6 @@
+numpy
+matplotlib
+scipy
+multiprocess
+functions
+ase
