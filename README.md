@@ -17,7 +17,17 @@ Follow these step if you want to use ML-MotEx locally on your own computer.
 
 ## Install requirements
 See the [install](/Install) folder.
- 
+
+## Using step 1 and 2 of ML-MotEx
+``` 
+jupyter notebook ML-MotEx-Step1+2.ipynb
+```
+
+## Using step 3 and 4 of ML-MotEx
+``` 
+jupyter notebook ML-MotEx-Step3+4.ipynb
+```
+
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
 
