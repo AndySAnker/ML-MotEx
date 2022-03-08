@@ -1,6 +1,0 @@
-name: ML-MotEx_Step3_4
-channels:
-  - diffpy
-  - defaults
-prefix: /home/andysodeanker/anaconda3/envs/ML-MotEx_Step3_4
-

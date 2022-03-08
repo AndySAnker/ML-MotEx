@@ -13,55 +13,11 @@ One of the bottlenecks in structural analysis using e.g. Pair Distribution Funct
 We have demonstrated the use of the algorithm on data from 4 different chemical systems consisting of disordered materials and ionic clusters. Furthermore, we showed that the algorithm achieves comparable results using 4 different starting models but the same dataset. ML-MotEx opens for a new type of modelling where each atom or structural feature in a model is assigned an importance value for the fit quality based on Machine Learning. 
 
 # How to use ML-MotEx
+Follow these step if you want to use ML-MotEx locally on your own computer.
 
-- Clone this repo:
-```bash
-git clone https://github.com/AndyNano/ML-MotEx.git
-```
-
-**ML-MotEx_Step1_2**: Generates a catalogue of structure motifs (Step 1) from a starting model and fit these to a PDF (Step 2):
-
-Option 1: Install using requirement.txt files
-```bash
-cd Install_options/ML-MotEx_Step1+2
-```
-```bash
-bash install.sh
-```
-
-Option 2: Install a predefined anaconda environment
-
-```bash
-cd Install_options/ML-MotEx_Step1+2
-```
-
-```bash
-conda env create -f ML-MotEx_Step1_2.yml
-```
-
-Option 3: Run ML-MotEx using a singularity container in the folder "Singularity"
-
-**ML-MotEx_Step3_4**: The results from the fits are handed to a ML algorithm (Step 3), and using SHAP (SHapley Additive exPlanation) values, the machine identifies which atoms are important for the fit quality (Step 4), such that structural motifs can be extracted from a dataset. 
-
-Option 1: Instal using requirement.txt files
-```bash
-cd Install_options/ML-MotEx_Step3+4
-```
-```bash
-bash install.sh
-```
-
-Option 2: Install a predefined anaconda environment
-```bash
-cd Install_options/ML-MotEx_Step3+4
-```
-```bash
-conda env create -f ML-MotEx_Step3_4.yml
-```
-
-Option 3: Run ML-MotEx using a singularity container in the folder "Singularity"
-
-
+## Install requirements
+See the [install](/Install) folder.
+ 
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
 
