@@ -1,4 +1,4 @@
-[arXiv]XXX  |  [Paper] XXX
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f)  |  [Paper] XXX
 
 # Machine Learning based Motif Extractor (ML-MotEx)
 
