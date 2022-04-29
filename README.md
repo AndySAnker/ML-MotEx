@@ -33,10 +33,10 @@ Or use ML-MotEx step 3+4 straightforwardly without any installion or downloads t
 If you use our code or our results, please consider citing our paper. Thanks in advance!
 
 ```
-@inproceedings{anker2022ML-MotEx,
-  title={Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures using Interpretable Machine Learning},
-  author={Andy S. Anker, Emil T. S. Kjær, Mikkel Juelsholt, Troels Lindahl Christiansen, Susanne Linn Skjærvø, Mads Ry Vogel Jørgensen, Innokenty Kantor, Daniel Risskov Sørensen, Raghavendra Selvan and Kirsten M. Ø. Jensen},
-  booktitle={XXX},
+@article{anker2022ML-MotEx,
+  title={Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures using Explainable Machine Learning},
+  author={Andy S. Anker, Emil T. S. Kjær, Mikkel Juelsholt, Troels Lindahl Christiansen, Susanne Linn Skjærvø, Mads Ry Vogel Jørgensen, Innokenty Kantor, Daniel Risskov Sørensen, Simon J. L. Billinge, Raghavendra Selvan and Kirsten M. Ø. Jensen},
+  booktitle={ChemRxiv},
   year={2022}}
 ```
 
