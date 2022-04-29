@@ -1,3 +1,5 @@
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f)  |  [Paper] XXX
+
 **ML-MotEx_Step1_2**: Generates a catalogue of structure motifs (Step 1) from a starting model and fit these to a PDF (Step 2):
 
 Option 1: Install using requirement.txt files
