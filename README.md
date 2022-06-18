@@ -27,7 +27,7 @@ jupyter notebook ML-MotEx-Step1+2.ipynb
 ``` 
 jupyter notebook ML-MotEx-Step3+4.ipynb
 ```
-Or use ML-MotEx step 3+4 straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndyNano/ML-MotEx/blob/main/Colab_ML-MotEx-Step3%2B4.ipynb) and try to play around.
+Or use ML-MotEx step 3+4 straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndySAnker/ML-MotEx/blob/main/ML_MotEx_Colab.ipynb) and try to play around.
 
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
