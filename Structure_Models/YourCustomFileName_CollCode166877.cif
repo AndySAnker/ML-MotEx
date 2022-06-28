@@ -1,0 +1,153 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_166877-ICSD
+_database_code_ICSD 166877
+_audit_creation_date 2010-08-01
+_chemical_name_common 'Tris(dimethylammonium) phosphodo(V)decatungstate'
+_chemical_formula_structural '((C H3)2 N H2)3 (P W12 O40)'
+_chemical_formula_sum 'C6 H24 N3 O40 P1 W12'
+_chemical_name_structure_type ((CH3)2NH2)3Mo12SiO4OHO35
+_exptl_crystal_density_diffrn 5.08
+_diffrn_ambient_temperature 123.
+_citation_title
+
+;
+Structural relationships among methyl-, dimethyl- and trimethylammonium
+phosphododecatungstates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Bulletin of the Chemical Society of Japan' 2009 82 1393 1397 BCSJA8
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Busbongthong, S.'
+primary 'Ozeki, T.'
+_cell_length_a 16.4347(2)
+_cell_length_b 16.4347
+_cell_length_c 25.2744(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 5912.01
+_cell_formula_units_Z 6
+_space_group_name_H-M_alt 'R -3 m H'
+_space_group_IT_number 166
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+W6+ 6
+O2- -2
+N3- -3
+H1+ 1
+C4+ 4
+H1- -1
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+P1 P5+ 6 c 0. 0. 0.26595(14) 0.0123(7) 1
+W1 W6+ 18 h 0.15007(2) 0.075037(12) 0.153890(15) 0.01573(12) 1
+W2 W6+ 36 i 0.219924(18) 0.214485(18) 0.263538(11) 0.01582(11) 1
+W3 W6+ 18 h 0.069484(13) 0.13897(3) 0.383526(15) 0.01584(12) 1
+O1 O2- 18 h 0.1018(5) 0.0509(2) 0.2460(3) 0.0163(12) 1
+O2 O2- 6 c 0. 0. 0.3259(5) 0.019(2) 1
+O3 O2- 18 h 0.0522(2) 0.1044(4) 0.1473(3) 0.0170(12) 1
+O4 O2- 18 h 0.1179(2) 0.2358(5) 0.2506(3) 0.0189(13) 1
+O5 O2- 36 i 0.1714(3) 0.1840(3) 0.33413(19) 0.0181(9) 1
+O6 O2- 36 i 0.2247(3) 0.1926(3) 0.18997(19) 0.0167(8) 1
+O7 O2- 18 h 0.2759(4) 0.1380(2) 0.2757(3) 0.0186(13) 1
+O8 O2- 18 h 0.1073(5) 0.0537(2) 0.4102(3) 0.0187(12) 1
+O9 O2- 18 h 0.1974(5) 0.0987(2) 0.0920(3) 0.0180(12) 1
+O10 O2- 36 i 0.3147(3) 0.3242(4) 0.27068(19) 0.0214(10) 1
+O11 O2- 18 h 0.1117(3) 0.2234(5) 0.4311(3) 0.0227(14) 1
+N1 N3- 18 h 0.3224(6) 0.1612(3) 0.3967(3) 0.0224(17) 1
+H1 H1+ 36 i 0.2909 0.1906 0.3846 0.027 1
+C1 C4+ 18 h 0.4192(7) 0.2096(3) 0.3738(4) 0.0237(19) 1
+H2 H1- 18 h 0.4151 0.2075 0.3351 0.036 1
+H3 H1- 36 i 0.4528 0.2752 0.3856 0.036 1
+C2 C4+ 18 h 0.3191(7) 0.1595(4) 0.4559(3) 0.025(2) 1
+H4 H1- 18 h 0.2535 0.1268 0.4677 0.037 1
+H5 H1- 36 i 0.3508 0.2241 0.4694 0.037 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0126(11) 0.0126(11) 0.0117(18) 0.0063(5) 0. 0.
+W1 W6+ 0.01634(18) 0.01723(15) 0.0133(2) 0.00817(9) 0.00092(12) 0.00046(6)
+W2 W6+ 0.01586(15) 0.01559(15) 0.01488(17) 0.00701(10) 0.00002(8) -0.00025(8)
+W3 W6+ 0.01719(15) 0.01648(18) 0.0136(2) 0.00824(9) -0.00055(6) -0.00109(12)
+O1 O2- 0.017(3) 0.017(2) 0.015(3) 0.0084(14) 0.001(2) 0.0004(12)
+O2 O2- 0.019(3) 0.019(3) 0.017(5) 0.0095(16) 0. 0.
+O3 O2- 0.019(2) 0.015(3) 0.015(3) 0.0076(14) 0.0028(12) 0.006(2)
+O4 O2- 0.021(2) 0.020(3) 0.015(3) 0.0102(15) 0.0016(12) 0.003(2)
+O5 O2- 0.017(2) 0.020(2) 0.016(2) 0.0084(18) 0.0002(17) -0.0014(17)
+O6 O2- 0.016(2) 0.017(2) 0.017(2) 0.0084(17) -0.0008(16) 0.0007(17)
+O7 O2- 0.017(3) 0.017(2) 0.022(3) 0.0085(15) 0.002(2) 0.0010(12)
+O8 O2- 0.016(3) 0.020(2) 0.018(3) 0.0082(15) -0.001(2) -0.0005(12)
+O9 O2- 0.018(3) 0.020(2) 0.015(3) 0.0091(15) -0.001(2) -0.0007(12)
+O10 O2- 0.019(2) 0.023(2) 0.021(2) 0.009(2) 0.0021(18) 0.0010(18)
+O11 O2- 0.027(3) 0.024(3) 0.016(3) 0.0119(17) -0.0028(13) -0.006(3)
+N1 N3- 0.025(4) 0.028(3) 0.012(4) 0.013(2) 0.001(3) 0.0007(16)
+C1 C4+ 0.022(4) 0.024(3) 0.025(5) 0.011(2) 0.005(4) 0.0026(18)
+C2 C4+ 0.028(5) 0.034(4) 0.010(4) 0.014(2) 0.004(4) 0.0022(18)
+#End of TTdata_166877-ICSD
