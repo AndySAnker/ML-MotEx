@@ -18,16 +18,12 @@ Follow these step if you want to use ML-MotEx locally on your own computer.
 ## Install requirements
 See the [install](/Install) folder.
 
-## Using step 1 and 2 of ML-MotEx
-``` 
-jupyter notebook ML-MotEx-Step1+2.ipynb
-```
+## Using ML-MotEx to calculate atom contribution values
+Use ML-MotEx to calculate atom contribution values straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndySAnker/ML-MotEx/blob/main/ML_MotEx_Colab.ipynb) and try to play around.
 
-## Using step 3 and 4 of ML-MotEx
-``` 
-jupyter notebook ML-MotEx-Step3+4.ipynb
-```
-Or use ML-MotEx step 3+4 straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndySAnker/ML-MotEx/blob/main/ML_MotEx_Colab.ipynb) and try to play around.
+## Using ML-MotEx to calculate stacking fault distributions
+Use ML-MotEx to calculate stacking fault distributions straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndySAnker/ML-MotEx/blob/main/ML_MotEx_Colab.ipynb) and try to play around.
+See more details at:::
 
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
