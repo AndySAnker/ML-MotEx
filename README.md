@@ -23,7 +23,6 @@ Use ML-MotEx to calculate atom contribution values straightforwardly without any
 
 ## Using ML-MotEx to calculate stacking fault distributions
 Use ML-MotEx to calculate stacking fault distributions straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/drive/17tM8EageV1K2Itq0oFPf17P43Ll1C0oE#scrollTo=jFc0SvpzwVOs) and try to play around.
-See more details at https://github.com/AndySAnker/ML-MotEx/tree/main/StackingFaults
 
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
