@@ -1,4 +1,4 @@
-[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f)  |  [Paper] XXX
+[ChemRxiv](https://chemrxiv.org/engage/chemrxiv/article-details/6263f48f5b900913a0195c4f)  |  [Paper](https://www.nature.com/articles/s41524-022-00896-3)
 
 # Machine Learning based Motif Extractor (ML-MotEx)
 
@@ -46,10 +46,17 @@ title = "{Structure analysis of supported disordered molybdenum oxides using pai
 author = "Lindahl Christiansen, Troels and Kjær, Emil T. S. and Kovyakh, Anton and Röderen, Morten L. and Høj, Martin and Vosch, Tom and Jensen, Kirsten M. Ø.",
 journal = "Journal of Applied Crystallography",},}
 
-@article{anker2021structural,
-title={Structural Changes during the Growth of Atomically Precise Metal Oxido Nanoclusters from Combined Pair Distribution Function and Small-Angle X-ray Scattering Analysis},
-author={Anker, Andy S and Christiansen, Troels Lindahl and Weber, Marcus and Schmiele, Martin and Brok, Erik and Kjær, Emil TS and Juhás, Pavol and Thomas, Rico and Mehring, Michael and Jensen, Kirsten M Ø},
-journal={Angewandte Chemie},}
+@article{anker2022ML-MotEx,
+   title={Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures using Explainable Machine Learning},
+   author={Andy S. Anker, Emil T. S. Kjær, Mikkel Juelsholt, Troels Lindahl Christiansen, Susanne Linn Skjærvø, Mads Ry Vogel Jørgensen, Innokenty Kantor, Daniel R. Sørensen, Simon J. L. Billinge, Raghavendra Selvan, Kirsten M. Ø. Jensen},
+   journal = {npj Computational Materials},
+   volume = {8},
+   number = {1},
+   pages = {213},
+   ISSN = {2057-3960},
+   DOI = {10.1038/s41524-022-00896-3},
+   url = {https://doi.org/10.1038/s41524-022-00896-3},
+   year = {2022}}
 ```
 
 ### LICENSE
