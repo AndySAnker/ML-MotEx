@@ -42,9 +42,9 @@ andy@chem.ku.dk
 Our code is developed based on the the following publications:
 ```
 @article{LindahlChristiansen:kc5101,
-title = "{Structure analysis of supported disordered molybdenum oxides using pair distribution function analysis and automated cluster modelling}",
-author = "Lindahl Christiansen, Troels and Kjær, Emil T. S. and Kovyakh, Anton and Röderen, Morten L. and Høj, Martin and Vosch, Tom and Jensen, Kirsten M. Ø.",
-journal = "Journal of Applied Crystallography",},}
+   title = "{Structure analysis of supported disordered molybdenum oxides using pair distribution function analysis and automated cluster modelling}",
+   author = "Lindahl Christiansen, Troels and Kjær, Emil T. S. and Kovyakh, Anton and Röderen, Morten L. and Høj, Martin and Vosch, Tom and Jensen, Kirsten M. Ø.",
+   journal = "Journal of Applied Crystallography"}}
 
 @article{anker2022ML-MotEx,
    title={Extracting Structural Motifs from Pair Distribution Function Data of Nanostructures using Explainable Machine Learning},
