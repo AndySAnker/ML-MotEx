@@ -13,16 +13,16 @@ One of the bottlenecks in structural analysis using e.g. Pair Distribution Funct
 We have demonstrated the use of the algorithm on data from 4 different chemical systems consisting of disordered materials and ionic clusters. Furthermore, we showed that the algorithm achieves comparable results using 4 different starting models but the same dataset. ML-MotEx opens for a new type of modelling where each atom or structural feature in a model is assigned an importance value for the fit quality based on Machine Learning. 
 
 # How to use ML-MotEx
-Follow these step if you want to use ML-MotEx locally on your own computer.
+Follow these step if you want to use ML-MotEx.
 
 ## Install requirements
-See the [install](/Install) folder.
+If you want to use ML-MotEx locally on your own computer, see the [install](/Install) folder.
 
 ## Using ML-MotEx to calculate atom contribution values
-Use ML-MotEx to calculate atom contribution values straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndySAnker/ML-MotEx/blob/main/ML_MotEx_Colab.ipynb) and try to play around.
+Use ML-MotEx to calculate atom contribution values straightforwardly without any installation or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/github/AndySAnker/ML-MotEx/blob/main/ML_MotEx_Colab.ipynb) and try to play around.
 
 ## Using ML-MotEx to calculate stacking fault distributions
-Use ML-MotEx to calculate stacking fault distributions straightforwardly without any installion or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/drive/17tM8EageV1K2Itq0oFPf17P43Ll1C0oE#scrollTo=jFc0SvpzwVOs) and try to play around.
+Use ML-MotEx to calculate stacking fault distributions straightforwardly without any installation or downloads to your computer. Follow the instructions in our [Colab notebook](https://colab.research.google.com/drive/17tM8EageV1K2Itq0oFPf17P43Ll1C0oE#scrollTo=jFc0SvpzwVOs) and try to play around.
 
 ### Citation
 If you use our code or our results, please consider citing our paper. Thanks in advance!
@@ -39,7 +39,7 @@ If you use our code or our results, please consider citing our paper. Thanks in 
 andy@chem.ku.dk
 
 ### Acknowledgments
-Our code is developed based on the the following publications:
+Our code is developed based on the following publications:
 ```
 @article{LindahlChristiansen:kc5101,
    title = "{Structure analysis of supported disordered molybdenum oxides using pair distribution function analysis and automated cluster modelling}",
