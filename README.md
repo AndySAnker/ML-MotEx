@@ -36,7 +36,7 @@ If you use our code or our results, please consider citing our paper. Thanks in 
 ```
 
 ### Contact
-andy@chem.ku.dk
+ansoan@dtu.dk
 
 ### Acknowledgments
 Our code is developed based on the following publications:
